@@ -16,7 +16,7 @@ Atuo em projetos de alta criticidade, sempre prezando por qualidade, escalabilid
 **Descrição:**  
 Desenvolvimento de um site interno para a empresa **Deltamaq**, com o objetivo de centralizar **políticas da empresa**, **notícias** e permitir que os colaboradores façam o **download de seus contracheques**.  
 
-**Tecnologias:** .NET, ASP.NET MVC, SQL Server  
+**Tecnologias:** .NET, ASP.NET MVC, Mysql  
 
 📸 **Imagens:**  
 ![Intranet - Login](imagens/delta_1.fw.png)  
@@ -28,7 +28,7 @@ Desenvolvimento de um site interno para a empresa **Deltamaq**, com o objetivo d
 **Descrição:**  
 Sistema web para **controle de pedidos de adiantamento de viagem**, com **níveis de autorização** e **prestação de contas**.  
 
-**Tecnologias:** .NET 8, EF Core, PostgreSQL, CQRS  
+**Tecnologias:** .NET 8, EF Core, Mysql, CQRS  
 
 📸 **Imagens:**  
 ![AvPro - Login](imagens/avpro_1.fw.png)  
@@ -40,7 +40,7 @@ Sistema web para **controle de pedidos de adiantamento de viagem**, com **nívei
 **Descrição:**  
 Sistema para controlar **entrada e saída de pessoas**, com **impressão de etiquetas** de identificação.  
 
-**Tecnologias:** .NET Core, SQL Server  
+**Tecnologias:** .NET, ASP.Net MVC, Oracle  
 
 📸 **Imagens:**  
 🚫 *Não disponíveis por motivos contratuais*  
@@ -54,7 +54,7 @@ Controle completo de **leitos hospitalares**, incluindo:
 - Manutenção e limpeza  
 - Liberação em caso de **alta** ou **óbito**  
 
-**Tecnologias:** .NET, Oracle, Windows Forms  
+**Tecnologias:** .NET, ASP.Net MVC, Oracle   
 
 📸 **Imagens:**  
 🚫 *Não disponíveis por motivos contratuais*  
@@ -65,7 +65,7 @@ Controle completo de **leitos hospitalares**, incluindo:
 **Descrição:**  
 Sistema para exibir **exames 3D de diagnóstico médico** e permitir ao médico gerar **laudos em PDF**.  
 
-**Tecnologias:** .NET Core, WPF, Biblioteca de Renderização 3D  
+**Tecnologias:** .NET, ASP.Net MVC, Oracle, Biblioteca de Renderização 3D  
 
 📸 **Imagens:**  
 🚫 *Não disponíveis por motivos contratuais*  
