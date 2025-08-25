@@ -1,4 +1,4 @@
-# 💼 Portfólio Profissional - Seu Nome
+# 💼 Portfólio Profissional - Paulo Fabricio
 
 Bem-vindo ao meu portfólio! Aqui apresento alguns projetos profissionais e pessoais que desenvolvi ao longo da minha carreira em tecnologia.
 
