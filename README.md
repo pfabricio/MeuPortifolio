@@ -79,7 +79,7 @@ Sistema para exibir **exames 3D de diagnóstico médico** e permitir ao médico 
 
 ---
 
-📄 [Baixar Currículo no Google Drive](curriculo/Curriculo_Paulo_Fabricio.pdf)
+📄 [Baixar Currículo](curriculo/Curriculo_Paulo_Fabricio.pdf)
 
 ---
 ✍️ Desenvolvido por [Paulo Fabricio de Souza Galrão]
